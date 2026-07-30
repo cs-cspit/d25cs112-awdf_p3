@@ -1,0 +1,51 @@
+.error{
+
+    width:450px;
+
+    margin:80px auto;
+
+    background:#ffe5e5;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    text-align:center;
+
+    box-shadow:0 0 10px gray;
+
+}
+
+.error h2{
+
+    color:red;
+
+}
+
+.error p{
+
+    margin:20px 0;
+
+}
+
+.error button{
+
+    padding:10px 25px;
+
+    background:red;
+
+    color:white;
+
+    border:none;
+
+    cursor:pointer;
+
+    border-radius:5px;
+
+}
+
+.error button:hover{
+
+    background:darkred;
+
+}

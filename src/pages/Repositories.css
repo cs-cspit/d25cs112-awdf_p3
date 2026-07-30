@@ -1,0 +1,19 @@
+.repositories{
+
+    padding:40px;
+
+    min-height:100vh;
+
+    background:#f4f4f4;
+
+}
+
+.repositories h1{
+
+    text-align:center;
+
+    color:#24292f;
+
+    margin-bottom:20px;
+
+}
